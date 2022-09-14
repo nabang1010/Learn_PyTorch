@@ -9,7 +9,8 @@
 - [ ] Chapter 3: Building a Deep Neural Network with PyTorch - 69 pages (15/09/2022 - Reading)
 ### Section 2 - Object Classification and Detection
 - [ ] Chapter 4: Introducing Convolutional Neural Networks
-- [ ] 
+- [ ] Chapter 5: Transfer Learning for Image Classification
+- [ ] Chapter 6: Practical Aspects of Image Classification
 
 
 ## Dive into Deep Learning
