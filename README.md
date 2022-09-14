@@ -9,6 +9,7 @@
 - [ ] Chapter 3: Building a Deep Neural Network with PyTorch - 69 pages ()
 ### Section 2 - Object Classification and Detection
 - [ ] Chapter 4: Introducing Convolutional Neural Networks
+- [ ] 
 
 
 ## Dive into Deep Learning
